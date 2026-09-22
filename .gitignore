@@ -1,0 +1,8 @@
+#DOT FILES
+.claude
+
+#FILES
+__pycache__
+
+#FOLDERS
+venv
